@@ -1,0 +1,800 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+PHL,2000-01-01,2000-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2000,2000,,50.401323,A,base year is 2015
+PHL,2001-01-01,2001-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2001,2001,,52.853628,A,base year is 2015
+PHL,2002-01-01,2002-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2002,2002,,53.757108,A,base year is 2015
+PHL,2003-01-01,2003-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2003,2003,,54.015246,A,base year is 2015
+PHL,2004-01-01,2004-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2004,2004,,55.822207,A,base year is 2015
+PHL,2005-01-01,2005-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2005,2005,,60.081474,A,base year is 2015
+PHL,2006-01-01,2006-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2006,2006,,63.437260,A,base year is 2015
+PHL,2007-01-01,2007-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2007,2007,,66.083168,A,base year is 2015
+PHL,2008-01-01,2008-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2008,2008,,70.600572,A,base year is 2015
+PHL,2009-01-01,2009-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2009,2009,,78.602831,A,base year is 2015
+PHL,2010-01-01,2010-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2010,2010,,82.539426,A,base year is 2015
+PHL,2011-01-01,2011-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2011,2011,,86.540555,A,base year is 2015
+PHL,2012-01-01,2012-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2012,2012,,89.315532,A,base year is 2015
+PHL,2013-01-01,2013-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2013,2013,,91.849306,X,base year is 2015
+PHL,2014-01-01,2014-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2014,2014,,96.011935,X,base year is 2015
+PHL,2015-01-01,2015-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2015,2015,,100.355547,X,base year is 2015
+PHL,2016-01-01,2016-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2016,2016,,101.260466,X,base year is 2015
+PHL,2017-01-01,2017-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2017,2017,,103.884732,X,base year is 2015
+PHL,2018-01-01,2018-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2018,2018,,108.409329,X,base year is 2015
+PHL,2019-01-01,2019-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2019,2019,,114.472288,X,base year is 2015
+PHL,2020-01-01,2020-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2020,2020,,117.006062,X,base year is 2015
+PHL,2021-01-01,2021-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2021,2021,,124.154924,X,base year is 2015
+PHL,2022-01-01,2022-01-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2022,2022,,125.805185,X,base year is 2015
+PHL,2000-02-01,2000-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2000,2000,,50.530391,A,base year is 2015
+PHL,2001-02-01,2001-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2001,2001,,52.466422,A,base year is 2015
+PHL,2002-02-01,2002-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2002,2002,,53.434437,A,base year is 2015
+PHL,2003-02-01,2003-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2003,2003,,53.950711,A,base year is 2015
+PHL,2004-02-01,2004-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2004,2004,,55.757673,A,base year is 2015
+PHL,2005-02-01,2005-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2005,2005,,60.146008,A,base year is 2015
+PHL,2006-02-01,2006-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2006,2006,,63.824466,A,base year is 2015
+PHL,2007-02-01,2007-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2007,2007,,66.018634,A,base year is 2015
+PHL,2008-02-01,2008-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2008,2008,,70.923244,A,base year is 2015
+PHL,2009-02-01,2009-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2009,2009,,79.248174,A,base year is 2015
+PHL,2010-02-01,2010-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2010,2010,,82.733029,A,base year is 2015
+PHL,2011-02-01,2011-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2011,2011,,87.637639,A,base year is 2015
+PHL,2012-02-01,2012-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2012,2012,,89.134548,X,base year is 2015
+PHL,2013-02-01,2013-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2013,2013,,91.758814,X,base year is 2015
+PHL,2014-02-01,2014-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2014,2014,,96.192918,X,base year is 2015
+PHL,2015-02-01,2015-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2015,2015,,99.993579,X,base year is 2015
+PHL,2016-02-01,2016-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2016,2016,,100.898499,X,base year is 2015
+PHL,2017-02-01,2017-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2017,2017,,103.975224,X,base year is 2015
+PHL,2018-02-01,2018-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2018,2018,,108.952280,X,base year is 2015
+PHL,2019-02-01,2019-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2019,2019,,114.110320,X,base year is 2015
+PHL,2020-02-01,2020-02-29,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2020,2020,,116.463110,X,base year is 2015
+PHL,2021-02-01,2021-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2021,2021,,124.245416,X,base year is 2015
+PHL,2022-02-01,2022-02-28,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2022,2022,,124.798743,X,base year is 2015
+PHL,2000-03-01,2000-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2000,2000,,50.465857,A,base year is 2015
+PHL,2001-03-01,2001-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2001,2001,,52.272819,A,base year is 2015
+PHL,2002-03-01,2002-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2002,2002,,53.498971,A,base year is 2015
+PHL,2003-03-01,2003-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2003,2003,,53.886177,A,base year is 2015
+PHL,2004-03-01,2004-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2004,2004,,56.144879,A,base year is 2015
+PHL,2005-03-01,2005-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2005,2005,,60.210543,A,base year is 2015
+PHL,2006-03-01,2006-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2006,2006,,63.889000,A,base year is 2015
+PHL,2007-03-01,2007-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2007,2007,,65.825031,A,base year is 2015
+PHL,2008-03-01,2008-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2008,2008,,71.633122,A,base year is 2015
+PHL,2009-03-01,2009-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2009,2009,,79.441777,A,base year is 2015
+PHL,2010-03-01,2010-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2010,2010,,82.539426,A,base year is 2015
+PHL,2011-03-01,2011-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2011,2011,,87.637639,A,base year is 2015
+PHL,2012-03-01,2012-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2012,2012,,89.134548,X,base year is 2015
+PHL,2013-03-01,2013-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2013,2013,,91.577830,X,base year is 2015
+PHL,2014-03-01,2014-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2014,2014,,96.192918,X,base year is 2015
+PHL,2015-03-01,2015-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2015,2015,,99.541120,X,base year is 2015
+PHL,2016-03-01,2016-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2016,2016,,100.536531,X,base year is 2015
+PHL,2017-03-01,2017-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2017,2017,,103.432273,X,base year is 2015
+PHL,2018-03-01,2018-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2018,2018,,109.495232,X,base year is 2015
+PHL,2019-03-01,2019-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2019,2019,,113.205401,X,base year is 2015
+PHL,2020-03-01,2020-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2020,2020,,116.191634,X,base year is 2015
+PHL,2021-03-01,2021-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2021,2021,,122.978529,X,base year is 2015
+PHL,2022-03-01,2022-03-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2022,2022,,124.910570,X,base year is 2015
+PHL,2000-04-01,2000-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2000,2000,,50.465857,A,base year is 2015
+PHL,2001-04-01,2001-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2001,2001,,52.143750,A,base year is 2015
+PHL,2002-04-01,2002-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2002,2002,,53.498971,A,base year is 2015
+PHL,2003-04-01,2003-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2003,2003,,53.886177,A,base year is 2015
+PHL,2004-04-01,2004-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2004,2004,,56.532085,A,base year is 2015
+PHL,2005-04-01,2005-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2005,2005,,60.533215,A,base year is 2015
+PHL,2006-04-01,2006-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2006,2006,,64.018069,A,base year is 2015
+PHL,2007-04-01,2007-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2007,2007,,65.954099,A,base year is 2015
+PHL,2008-04-01,2008-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2008,2008,,73.633686,A,base year is 2015
+PHL,2009-04-01,2009-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2009,2009,,79.764449,A,base year is 2015
+PHL,2010-04-01,2010-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2010,2010,,82.668495,A,base year is 2015
+PHL,2011-04-01,2011-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2011,2011,,87.895776,A,base year is 2015
+PHL,2012-04-01,2012-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2012,2012,,89.767992,X,base year is 2015
+PHL,2013-04-01,2013-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2013,2013,,91.577830,X,base year is 2015
+PHL,2014-04-01,2014-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2014,2014,,96.464394,X,base year is 2015
+PHL,2015-04-01,2015-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2015,2015,,99.631612,X,base year is 2015
+PHL,2016-04-01,2016-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2016,2016,,100.446039,X,base year is 2015
+PHL,2017-04-01,2017-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2017,2017,,103.794240,X,base year is 2015
+PHL,2018-04-01,2018-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2018,2018,,109.947691,X,base year is 2015
+PHL,2019-04-01,2019-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2019,2019,,113.295893,X,base year is 2015
+PHL,2020-04-01,2020-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2020,2020,,117.096554,X,base year is 2015
+PHL,2021-04-01,2021-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2021,2021,,122.707053,X,base year is 2015
+PHL,2022-04-01,2022-04-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2022,2022,,125.805185,X,base year is 2015
+PHL,2000-05-01,2000-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2000,2000,,50.659460,A,base year is 2015
+PHL,2001-05-01,2001-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2001,2001,,52.401887,A,base year is 2015
+PHL,2002-05-01,2002-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2002,2002,,53.563505,A,base year is 2015
+PHL,2003-05-01,2003-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2003,2003,,54.079780,A,base year is 2015
+PHL,2004-05-01,2004-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2004,2004,,56.919291,A,base year is 2015
+PHL,2005-05-01,2005-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2005,2005,,60.855886,A,base year is 2015
+PHL,2006-05-01,2006-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2006,2006,,64.211672,A,base year is 2015
+PHL,2007-05-01,2007-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2007,2007,,66.147702,A,base year is 2015
+PHL,2008-05-01,2008-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2008,2008,,75.247045,A,base year is 2015
+PHL,2009-05-01,2009-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2009,2009,,80.022586,A,base year is 2015
+PHL,2010-05-01,2010-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2010,2010,,82.733029,A,base year is 2015
+PHL,2011-05-01,2011-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2011,2011,,87.831242,A,base year is 2015
+PHL,2012-05-01,2012-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2012,2012,,89.677500,X,base year is 2015
+PHL,2013-05-01,2013-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2013,2013,,91.668322,X,base year is 2015
+PHL,2014-05-01,2014-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2014,2014,,97.007346,X,base year is 2015
+PHL,2015-05-01,2015-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2015,2015,,99.450628,X,base year is 2015
+PHL,2016-05-01,2016-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2016,2016,,100.808007,X,base year is 2015
+PHL,2017-05-01,2017-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2017,2017,,103.884732,X,base year is 2015
+PHL,2018-05-01,2018-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2018,2018,,109.857199,X,base year is 2015
+PHL,2019-05-01,2019-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2019,2019,,113.567368,X,base year is 2015
+PHL,2020-05-01,2020-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2020,2020,,116.915570,X,base year is 2015
+PHL,2021-05-01,2021-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2021,2021,,122.254593,X,base year is 2015
+PHL,2022-05-01,2022-05-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2022,2022,,126.587972,X,base year is 2015
+PHL,2000-06-01,2000-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2000,2000,,50.594926,A,base year is 2015
+PHL,2001-06-01,2001-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2001,2001,,52.724559,A,base year is 2015
+PHL,2002-06-01,2002-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2002,2002,,53.628040,A,base year is 2015
+PHL,2003-06-01,2003-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2003,2003,,54.660589,A,base year is 2015
+PHL,2004-06-01,2004-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2004,2004,,57.564635,A,base year is 2015
+PHL,2005-06-01,2005-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2005,2005,,61.243092,A,base year is 2015
+PHL,2006-06-01,2006-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2006,2006,,64.405275,A,base year is 2015
+PHL,2007-06-01,2007-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2007,2007,,66.405840,A,base year is 2015
+PHL,2008-06-01,2008-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2008,2008,,77.118541,A,base year is 2015
+PHL,2009-06-01,2009-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2009,2009,,80.216189,A,base year is 2015
+PHL,2010-06-01,2010-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2010,2010,,83.055701,A,base year is 2015
+PHL,2011-06-01,2011-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2011,2011,,88.024845,A,base year is 2015
+PHL,2012-06-01,2012-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2012,2012,,90.039467,X,base year is 2015
+PHL,2013-06-01,2013-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2013,2013,,91.939798,X,base year is 2015
+PHL,2014-06-01,2014-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2014,2014,,97.821773,X,base year is 2015
+PHL,2015-06-01,2015-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2015,2015,,99.360136,X,base year is 2015
+PHL,2016-06-01,2016-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2016,2016,,101.260466,X,base year is 2015
+PHL,2017-06-01,2017-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2017,2017,,104.337192,X,base year is 2015
+PHL,2018-06-01,2018-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2018,2018,,110.671627,X,base year is 2015
+PHL,2019-06-01,2019-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2019,2019,,113.657860,X,base year is 2015
+PHL,2020-06-01,2020-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2020,2020,,116.734586,X,base year is 2015
+PHL,2021-06-01,2021-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2021,2021,,122.164101,X,base year is 2015
+PHL,2022-06-01,2022-06-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2022,2022,,127.818067,X,base year is 2015
+PHL,2000-07-01,2000-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2000,2000,,50.788529,A,base year is 2015
+PHL,2001-07-01,2001-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2001,2001,,53.047231,A,base year is 2015
+PHL,2002-07-01,2002-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2002,2002,,54.079780,A,base year is 2015
+PHL,2003-07-01,2003-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2003,2003,,54.660589,A,base year is 2015
+PHL,2004-07-01,2004-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2004,2004,,58.339047,A,base year is 2015
+PHL,2005-07-01,2005-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2005,2005,,61.565764,A,base year is 2015
+PHL,2006-07-01,2006-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2006,2006,,64.598878,A,base year is 2015
+PHL,2007-07-01,2007-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2007,2007,,66.793046,A,base year is 2015
+PHL,2008-07-01,2008-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2008,2008,,78.344693,A,base year is 2015
+PHL,2009-07-01,2009-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2009,2009,,80.280724,A,base year is 2015
+PHL,2010-07-01,2010-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2010,2010,,83.378372,A,base year is 2015
+PHL,2011-07-01,2011-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2011,2011,,88.153914,A,base year is 2015
+PHL,2012-07-01,2012-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2012,2012,,90.582419,X,base year is 2015
+PHL,2013-07-01,2013-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2013,2013,,92.301766,X,base year is 2015
+PHL,2014-07-01,2014-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2014,2014,,98.907676,X,base year is 2015
+PHL,2015-07-01,2015-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2015,2015,,99.812595,X,base year is 2015
+PHL,2016-07-01,2016-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2016,2016,,101.531942,X,base year is 2015
+PHL,2017-07-01,2017-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2017,2017,,104.337192,X,base year is 2015
+PHL,2018-07-01,2018-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2018,2018,,111.667038,X,base year is 2015
+PHL,2019-07-01,2019-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2019,2019,,113.838844,X,base year is 2015
+PHL,2020-07-01,2020-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2020,2020,,116.553602,X,base year is 2015
+PHL,2021-07-01,2021-07-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2021,2021,,122.254593,X,base year is 2015
+PHL,2000-08-01,2000-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2000,2000,,51.175735,A,base year is 2015
+PHL,2001-08-01,2001-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2001,2001,,53.047231,A,base year is 2015
+PHL,2002-08-01,2002-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2002,2002,,54.466986,A,base year is 2015
+PHL,2003-08-01,2003-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2003,2003,,54.789658,A,base year is 2015
+PHL,2004-08-01,2004-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2004,2004,,58.855322,A,base year is 2015
+PHL,2005-08-01,2005-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2005,2005,,61.952970,A,base year is 2015
+PHL,2006-08-01,2006-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2006,2006,,64.986084,A,base year is 2015
+PHL,2007-08-01,2007-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2007,2007,,66.986649,A,base year is 2015
+PHL,2008-08-01,2008-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2008,2008,,78.473762,A,base year is 2015
+PHL,2009-08-01,2009-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2009,2009,,80.345258,A,base year is 2015
+PHL,2010-08-01,2010-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2010,2010,,83.894647,A,base year is 2015
+PHL,2011-08-01,2011-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2011,2011,,88.218448,A,base year is 2015
+PHL,2012-08-01,2012-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2012,2012,,91.577830,X,base year is 2015
+PHL,2013-08-01,2013-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2013,2013,,92.754225,X,base year is 2015
+PHL,2014-08-01,2014-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2014,2014,,99.722104,X,base year is 2015
+PHL,2015-08-01,2015-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2015,2015,,100.084071,X,base year is 2015
+PHL,2016-08-01,2016-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2016,2016,,101.622434,X,base year is 2015
+PHL,2017-08-01,2017-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2017,2017,,104.608668,X,base year is 2015
+PHL,2018-08-01,2018-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2018,2018,,113.476876,X,base year is 2015
+PHL,2019-08-01,2019-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2019,2019,,114.110320,X,base year is 2015
+PHL,2020-08-01,2020-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2020,2020,,116.191634,X,base year is 2015
+PHL,2021-08-01,2021-08-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2021,2021,,123.702464,X,base year is 2015
+PHL,2000-09-01,2000-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2000,2000,,51.111200,A,base year is 2015
+PHL,2001-09-01,2001-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2001,2001,,53.176299,A,base year is 2015
+PHL,2002-09-01,2002-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2002,2002,,54.402452,A,base year is 2015
+PHL,2003-09-01,2003-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2003,2003,,54.725124,A,base year is 2015
+PHL,2004-09-01,2004-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2004,2004,,58.984390,A,base year is 2015
+PHL,2005-09-01,2005-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2005,2005,,62.146573,A,base year is 2015
+PHL,2006-09-01,2006-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2006,2006,,64.857016,A,base year is 2015
+PHL,2007-09-01,2007-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2007,2007,,67.502924,A,base year is 2015
+PHL,2008-09-01,2008-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2008,2008,,78.280159,A,base year is 2015
+PHL,2009-09-01,2009-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2009,2009,,80.603396,A,base year is 2015
+PHL,2010-09-01,2010-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2010,2010,,84.088250,A,base year is 2015
+PHL,2011-09-01,2011-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2011,2011,,88.282982,A,base year is 2015
+PHL,2012-09-01,2012-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2012,2012,,91.758814,X,base year is 2015
+PHL,2013-09-01,2013-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2013,2013,,93.749636,X,base year is 2015
+PHL,2014-09-01,2014-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2014,2014,,99.903087,X,base year is 2015
+PHL,2015-09-01,2015-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2015,2015,,99.993579,X,base year is 2015
+PHL,2016-09-01,2016-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2016,2016,,101.893910,X,base year is 2015
+PHL,2017-09-01,2017-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2017,2017,,105.242111,X,base year is 2015
+PHL,2018-09-01,2018-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2018,2018,,115.467699,X,base year is 2015
+PHL,2019-09-01,2019-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2019,2019,,114.381796,X,base year is 2015
+PHL,2020-09-01,2020-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2020,2020,,116.101142,X,base year is 2015
+PHL,2021-09-01,2021-09-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2021,2021,,123.340496,X,base year is 2015
+PHL,2000-10-01,2000-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2000,2000,,51.369338,A,base year is 2015
+PHL,2001-10-01,2001-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2001,2001,,53.176299,A,base year is 2015
+PHL,2002-10-01,2002-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2002,2002,,54.208849,A,base year is 2015
+PHL,2003-10-01,2003-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2003,2003,,54.660589,A,base year is 2015
+PHL,2004-10-01,2004-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2004,2004,,58.984390,A,base year is 2015
+PHL,2005-10-01,2005-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2005,2005,,62.404711,A,base year is 2015
+PHL,2006-10-01,2006-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2006,2006,,65.244222,A,base year is 2015
+PHL,2007-10-01,2007-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2007,2007,,68.019198,A,base year is 2015
+PHL,2008-10-01,2008-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2008,2008,,77.828419,A,base year is 2015
+PHL,2009-10-01,2009-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2009,2009,,81.377808,A,base year is 2015
+PHL,2010-10-01,2010-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2010,2010,,84.217319,A,base year is 2015
+PHL,2011-10-01,2011-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2011,2011,,88.992860,A,base year is 2015
+PHL,2012-10-01,2012-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2012,2012,,91.668322,X,base year is 2015
+PHL,2013-10-01,2013-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2013,2013,,94.292588,X,base year is 2015
+PHL,2014-10-01,2014-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2014,2014,,99.903087,X,base year is 2015
+PHL,2015-10-01,2015-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2015,2015,,100.084071,X,base year is 2015
+PHL,2016-10-01,2016-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2016,2016,,102.346369,X,base year is 2015
+PHL,2017-10-01,2017-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2017,2017,,105.604079,X,base year is 2015
+PHL,2018-10-01,2018-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2018,2018,,115.558191,X,base year is 2015
+PHL,2019-10-01,2019-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2019,2019,,114.562780,X,base year is 2015
+PHL,2020-10-01,2020-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2020,2020,,117.006062,X,base year is 2015
+PHL,2021-10-01,2021-10-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2021,2021,,123.159513,X,base year is 2015
+PHL,2000-11-01,2000-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2000,2000,,52.014681,A,base year is 2015
+PHL,2001-11-01,2001-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2001,2001,,53.305368,A,base year is 2015
+PHL,2002-11-01,2002-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2002,2002,,54.079780,A,base year is 2015
+PHL,2003-11-01,2003-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2003,2003,,54.789658,A,base year is 2015
+PHL,2004-11-01,2004-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2004,2004,,59.048925,A,base year is 2015
+PHL,2005-11-01,2005-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2005,2005,,62.598314,A,base year is 2015
+PHL,2006-11-01,2006-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2006,2006,,65.502359,A,base year is 2015
+PHL,2007-11-01,2007-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2007,2007,,68.406405,A,base year is 2015
+PHL,2008-11-01,2008-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2008,2008,,77.570281,A,base year is 2015
+PHL,2009-11-01,2009-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2009,2009,,82.023151,A,base year is 2015
+PHL,2010-11-01,2010-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2010,2010,,85.185334,A,base year is 2015
+PHL,2011-11-01,2011-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2011,2011,,89.250998,A,base year is 2015
+PHL,2012-11-01,2012-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2012,2012,,91.668322,X,base year is 2015
+PHL,2013-11-01,2013-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2013,2013,,94.654556,X,base year is 2015
+PHL,2014-11-01,2014-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2014,2014,,99.812595,X,base year is 2015
+PHL,2015-11-01,2015-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2015,2015,,100.808007,X,base year is 2015
+PHL,2016-11-01,2016-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2016,2016,,103.160797,X,base year is 2015
+PHL,2017-11-01,2017-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2017,2017,,106.237522,X,base year is 2015
+PHL,2018-11-01,2018-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2018,2018,,114.743763,X,base year is 2015
+PHL,2019-11-01,2019-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2019,2019,,114.743763,X,base year is 2015
+PHL,2020-11-01,2020-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2020,2020,,119.630327,X,base year is 2015
+PHL,2021-11-01,2021-11-30,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2021,2021,,124.335908,X,base year is 2015
+PHL,2000-12-01,2000-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2000,2000,,52.401887,A,base year is 2015
+PHL,2001-12-01,2001-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2001,2001,,53.434437,A,base year is 2015
+PHL,2002-12-01,2002-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2002,2002,,54.079780,A,base year is 2015
+PHL,2003-12-01,2003-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2003,2003,,55.047795,A,base year is 2015
+PHL,2004-12-01,2004-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2004,2004,,59.694268,A,base year is 2015
+PHL,2005-12-01,2005-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2005,2005,,62.791917,A,base year is 2015
+PHL,2006-12-01,2006-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2006,2006,,65.566893,A,base year is 2015
+PHL,2007-12-01,2007-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2007,2007,,69.116282,A,base year is 2015
+PHL,2008-12-01,2008-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2008,2008,,77.634816,A,base year is 2015
+PHL,2009-12-01,2009-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2009,2009,,82.345823,A,base year is 2015
+PHL,2010-12-01,2010-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2010,2010,,85.637074,A,base year is 2015
+PHL,2011-12-01,2011-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2011,2011,,89.121929,A,base year is 2015
+PHL,2012-12-01,2012-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2012,2012,,91.577830,X,base year is 2015
+PHL,2013-12-01,2013-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2013,2013,,95.378491,X,base year is 2015
+PHL,2014-12-01,2014-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2014,2014,,99.812595,X,base year is 2015
+PHL,2015-12-01,2015-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2015,2015,,100.898499,X,base year is 2015
+PHL,2016-12-01,2016-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2016,2016,,103.251289,X,base year is 2015
+PHL,2017-12-01,2017-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2017,2017,,106.870966,X,base year is 2015
+PHL,2018-12-01,2018-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2018,2018,,114.019828,X,base year is 2015
+PHL,2019-12-01,2019-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2019,2019,,116.010650,X,base year is 2015
+PHL,2020-12-01,2020-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2020,2020,,121.530658,X,base year is 2015
+PHL,2021-12-01,2021-12-31,171,'608,Philippines,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2021,2021,,125.331319,X,base year is 2015
+PHL,2000-01-01,2000-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2000,2000,,54.159182,X,base year is 2015
+PHL,2001-01-01,2001-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2001,2001,,57.323862,X,base year is 2015
+PHL,2002-01-01,2002-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2002,2002,,59.193900,X,base year is 2015
+PHL,2003-01-01,2003-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2003,2003,,60.344692,X,base year is 2015
+PHL,2004-01-01,2004-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2004,2004,,62.070882,X,base year is 2015
+PHL,2005-01-01,2005-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2005,2005,,66.602128,X,base year is 2015
+PHL,2006-01-01,2006-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2006,2006,,70.557978,X,base year is 2015
+PHL,2007-01-01,2007-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2007,2007,,73.219186,X,base year is 2015
+PHL,2008-01-01,2008-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2008,2008,,76.599639,X,base year is 2015
+PHL,2009-01-01,2009-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2009,2009,,82.065905,X,base year is 2015
+PHL,2010-01-01,2010-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2010,2010,,85.230585,X,base year is 2015
+PHL,2011-01-01,2011-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2011,2011,,88.611038,X,base year is 2015
+PHL,2012-01-01,2012-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2012,2012,,92.135341,X,base year is 2015
+PHL,2013-01-01,2013-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2013,2013,,94.751760,X,base year is 2015
+PHL,2014-01-01,2014-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2014,2014,,98.302615,X,base year is 2015
+PHL,2015-01-01,2015-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2015,2015,,99.797712,X,base year is 2015
+PHL,2016-01-01,2016-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2016,2016,,100.545261,X,base year is 2015
+PHL,2017-01-01,2017-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2017,2017,,103.068236,X,base year is 2015
+PHL,2018-01-01,2018-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2018,2018,,106.619091,X,base year is 2015
+PHL,2019-01-01,2019-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2019,2019,,111.335780,X,base year is 2015
+PHL,2020-01-01,2020-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2020,2020,,114.626492,X,base year is 2015
+PHL,2021-01-01,2021-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2021,2021,,118.904419,X,base year is 2015
+PHL,2022-01-01,2022-01-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2022,2022,,122.524203,X,base year is 2015
+PHL,2000-02-01,2000-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2000,2000,,54.303031,X,base year is 2015
+PHL,2001-02-01,2001-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2001,2001,,57.467711,X,base year is 2015
+PHL,2002-02-01,2002-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2002,2002,,59.121975,X,base year is 2015
+PHL,2003-02-01,2003-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2003,2003,,60.488542,X,base year is 2015
+PHL,2004-02-01,2004-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2004,2004,,62.214731,X,base year is 2015
+PHL,2005-02-01,2005-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2005,2005,,66.745977,X,base year is 2015
+PHL,2006-02-01,2006-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2006,2006,,71.061450,X,base year is 2015
+PHL,2007-02-01,2007-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2007,2007,,73.147261,X,base year is 2015
+PHL,2008-02-01,2008-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2008,2008,,76.887338,X,base year is 2015
+PHL,2009-02-01,2009-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2009,2009,,82.425528,X,base year is 2015
+PHL,2010-02-01,2010-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2010,2010,,85.662132,X,base year is 2015
+PHL,2011-02-01,2011-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2011,2011,,89.689906,X,base year is 2015
+PHL,2012-02-01,2012-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2012,2012,,92.228785,X,base year is 2015
+PHL,2013-02-01,2013-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2013,2013,,94.938648,X,base year is 2015
+PHL,2014-02-01,2014-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2014,2014,,98.396059,X,base year is 2015
+PHL,2015-02-01,2015-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2015,2015,,99.891156,X,base year is 2015
+PHL,2016-02-01,2016-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2016,2016,,100.358373,X,base year is 2015
+PHL,2017-02-01,2017-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2017,2017,,103.442011,X,base year is 2015
+PHL,2018-02-01,2018-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2018,2018,,107.386924,X,base year is 2015
+PHL,2019-02-01,2019-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2019,2019,,111.445470,X,base year is 2015
+PHL,2020-02-01,2020-02-29,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2020,2020,,114.187731,X,base year is 2015
+PHL,2021-02-01,2021-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2021,2021,,119.014109,X,base year is 2015
+PHL,2022-02-01,2022-02-28,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2022,2022,,122.633893,X,base year is 2015
+PHL,2000-03-01,2000-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2000,2000,,54.303031,X,base year is 2015
+PHL,2001-03-01,2001-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2001,2001,,57.467711,X,base year is 2015
+PHL,2002-03-01,2002-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2002,2002,,59.337749,X,base year is 2015
+PHL,2003-03-01,2003-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2003,2003,,60.560466,X,base year is 2015
+PHL,2004-03-01,2004-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2004,2004,,62.430504,X,base year is 2015
+PHL,2005-03-01,2005-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2005,2005,,66.889826,X,base year is 2015
+PHL,2006-03-01,2006-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2006,2006,,71.277223,X,base year is 2015
+PHL,2007-03-01,2007-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2007,2007,,73.147261,X,base year is 2015
+PHL,2008-03-01,2008-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2008,2008,,77.462734,X,base year is 2015
+PHL,2009-03-01,2009-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2009,2009,,82.569377,X,base year is 2015
+PHL,2010-03-01,2010-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2010,2010,,85.805981,X,base year is 2015
+PHL,2011-03-01,2011-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2011,2011,,89.977605,X,base year is 2015
+PHL,2012-03-01,2012-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2012,2012,,92.415672,X,base year is 2015
+PHL,2013-03-01,2013-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2013,2013,,94.938648,X,base year is 2015
+PHL,2014-03-01,2014-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2014,2014,,98.302615,X,base year is 2015
+PHL,2015-03-01,2015-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2015,2015,,99.797712,X,base year is 2015
+PHL,2016-03-01,2016-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2016,2016,,100.358373,X,base year is 2015
+PHL,2017-03-01,2017-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2017,2017,,103.442011,X,base year is 2015
+PHL,2018-03-01,2018-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2018,2018,,107.935376,X,base year is 2015
+PHL,2019-03-01,2019-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2019,2019,,111.555160,X,base year is 2015
+PHL,2020-03-01,2020-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2020,2020,,113.968350,X,base year is 2015
+PHL,2021-03-01,2021-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2021,2021,,118.685038,X,base year is 2015
+PHL,2022-03-01,2022-03-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2022,2022,,123.401726,X,base year is 2015
+PHL,2000-04-01,2000-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2000,2000,,54.446880,X,base year is 2015
+PHL,2001-04-01,2001-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2001,2001,,57.467711,X,base year is 2015
+PHL,2002-04-01,2002-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2002,2002,,59.409673,X,base year is 2015
+PHL,2003-04-01,2003-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2003,2003,,60.704315,X,base year is 2015
+PHL,2004-04-01,2004-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2004,2004,,62.646278,X,base year is 2015
+PHL,2005-04-01,2005-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2005,2005,,67.177524,X,base year is 2015
+PHL,2006-04-01,2006-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2006,2006,,71.421072,X,base year is 2015
+PHL,2007-04-01,2007-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2007,2007,,73.291110,X,base year is 2015
+PHL,2008-04-01,2008-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2008,2008,,78.613527,X,base year is 2015
+PHL,2009-04-01,2009-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2009,2009,,83.000924,X,base year is 2015
+PHL,2010-04-01,2010-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2010,2010,,86.309453,X,base year is 2015
+PHL,2011-04-01,2011-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2011,2011,,90.337227,X,base year is 2015
+PHL,2012-04-01,2012-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2012,2012,,93.069776,X,base year is 2015
+PHL,2013-04-01,2013-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2013,2013,,95.125535,X,base year is 2015
+PHL,2014-04-01,2014-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2014,2014,,98.582946,X,base year is 2015
+PHL,2015-04-01,2015-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2015,2015,,99.984599,X,base year is 2015
+PHL,2016-04-01,2016-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2016,2016,,100.638704,X,base year is 2015
+PHL,2017-04-01,2017-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2017,2017,,103.815785,X,base year is 2015
+PHL,2018-04-01,2018-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2018,2018,,108.374138,X,base year is 2015
+PHL,2019-04-01,2019-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2019,2019,,111.884232,X,base year is 2015
+PHL,2020-04-01,2020-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2020,2020,,113.858659,X,base year is 2015
+PHL,2021-04-01,2021-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2021,2021,,118.575347,X,base year is 2015
+PHL,2022-04-01,2022-04-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2022,2022,,124.388940,X,base year is 2015
+PHL,2000-05-01,2000-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2000,2000,,54.590729,X,base year is 2015
+PHL,2001-05-01,2001-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2001,2001,,57.611560,X,base year is 2015
+PHL,2002-05-01,2002-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2002,2002,,59.481598,X,base year is 2015
+PHL,2003-05-01,2003-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2003,2003,,60.776240,X,base year is 2015
+PHL,2004-05-01,2004-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2004,2004,,62.933976,X,base year is 2015
+PHL,2005-05-01,2005-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2005,2005,,67.537147,X,base year is 2015
+PHL,2006-05-01,2006-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2006,2006,,71.564921,X,base year is 2015
+PHL,2007-05-01,2007-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2007,2007,,73.506884,X,base year is 2015
+PHL,2008-05-01,2008-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2008,2008,,79.548546,X,base year is 2015
+PHL,2009-05-01,2009-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2009,2009,,83.000924,X,base year is 2015
+PHL,2010-05-01,2010-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2010,2010,,86.237528,X,base year is 2015
+PHL,2011-05-01,2011-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2011,2011,,90.481076,X,base year is 2015
+PHL,2012-05-01,2012-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2012,2012,,92.976333,X,base year is 2015
+PHL,2013-05-01,2013-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2013,2013,,95.125535,X,base year is 2015
+PHL,2014-05-01,2014-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2014,2014,,98.956720,X,base year is 2015
+PHL,2015-05-01,2015-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2015,2015,,99.891156,X,base year is 2015
+PHL,2016-05-01,2016-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2016,2016,,100.825591,X,base year is 2015
+PHL,2017-05-01,2017-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2017,2017,,103.722341,X,base year is 2015
+PHL,2018-05-01,2018-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2018,2018,,108.593519,X,base year is 2015
+PHL,2019-05-01,2019-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2019,2019,,112.103613,X,base year is 2015
+PHL,2020-05-01,2020-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2020,2020,,113.858659,X,base year is 2015
+PHL,2021-05-01,2021-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2021,2021,,118.575347,X,base year is 2015
+PHL,2022-05-01,2022-05-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2022,2022,,124.937392,X,base year is 2015
+PHL,2000-06-01,2000-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2000,2000,,54.806503,X,base year is 2015
+PHL,2001-06-01,2001-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2001,2001,,58.043107,X,base year is 2015
+PHL,2002-06-01,2002-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2002,2002,,59.553523,X,base year is 2015
+PHL,2003-06-01,2003-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2003,2003,,61.207787,X,base year is 2015
+PHL,2004-06-01,2004-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2004,2004,,63.725146,X,base year is 2015
+PHL,2005-06-01,2005-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2005,2005,,67.968694,X,base year is 2015
+PHL,2006-06-01,2006-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2006,2006,,71.996469,X,base year is 2015
+PHL,2007-06-01,2007-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2007,2007,,73.866507,X,base year is 2015
+PHL,2008-06-01,2008-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2008,2008,,80.843188,X,base year is 2015
+PHL,2009-06-01,2009-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2009,2009,,83.432471,X,base year is 2015
+PHL,2010-06-01,2010-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2010,2010,,86.453302,X,base year is 2015
+PHL,2011-06-01,2011-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2011,2011,,90.984548,X,base year is 2015
+PHL,2012-06-01,2012-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2012,2012,,93.350107,X,base year is 2015
+PHL,2013-06-01,2013-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2013,2013,,95.686196,X,base year is 2015
+PHL,2014-06-01,2014-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2014,2014,,99.330494,X,base year is 2015
+PHL,2015-06-01,2015-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2015,2015,,99.891156,X,base year is 2015
+PHL,2016-06-01,2016-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2016,2016,,101.199365,X,base year is 2015
+PHL,2017-06-01,2017-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2017,2017,,103.722341,X,base year is 2015
+PHL,2018-06-01,2018-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2018,2018,,109.032281,X,base year is 2015
+PHL,2019-06-01,2019-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2019,2019,,111.993922,X,base year is 2015
+PHL,2020-06-01,2020-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2020,2020,,114.516802,X,base year is 2015
+PHL,2021-06-01,2021-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2021,2021,,118.794728,X,base year is 2015
+PHL,2022-06-01,2022-06-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2022,2022,,126.034296,X,base year is 2015
+PHL,2000-07-01,2000-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2000,2000,,55.094201,X,base year is 2015
+PHL,2001-07-01,2001-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2001,2001,,58.402730,X,base year is 2015
+PHL,2002-07-01,2002-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2002,2002,,59.841221,X,base year is 2015
+PHL,2003-07-01,2003-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2003,2003,,61.207787,X,base year is 2015
+PHL,2004-07-01,2004-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2004,2004,,64.588241,X,base year is 2015
+PHL,2005-07-01,2005-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2005,2005,,68.472166,X,base year is 2015
+PHL,2006-07-01,2006-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2006,2006,,72.212242,X,base year is 2015
+PHL,2007-07-01,2007-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2007,2007,,74.298054,X,base year is 2015
+PHL,2008-07-01,2008-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2008,2008,,81.850131,X,base year is 2015
+PHL,2009-07-01,2009-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2009,2009,,83.648245,X,base year is 2015
+PHL,2010-07-01,2010-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2010,2010,,86.741000,X,base year is 2015
+PHL,2011-07-01,2011-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2011,2011,,90.984548,X,base year is 2015
+PHL,2012-07-01,2012-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2012,2012,,93.630438,X,base year is 2015
+PHL,2013-07-01,2013-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2013,2013,,95.873083,X,base year is 2015
+PHL,2014-07-01,2014-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2014,2014,,99.891156,X,base year is 2015
+PHL,2015-07-01,2015-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2015,2015,,100.078043,X,base year is 2015
+PHL,2016-07-01,2016-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2016,2016,,101.386253,X,base year is 2015
+PHL,2017-07-01,2017-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2017,2017,,103.815785,X,base year is 2015
+PHL,2018-07-01,2018-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2018,2018,,109.909804,X,base year is 2015
+PHL,2019-07-01,2019-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2019,2019,,112.322993,X,base year is 2015
+PHL,2020-07-01,2020-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2020,2020,,115.065254,X,base year is 2015
+PHL,2021-07-01,2021-07-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2021,2021,,119.343180,X,base year is 2015
+PHL,2000-08-01,2000-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2000,2000,,55.309974,X,base year is 2015
+PHL,2001-08-01,2001-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2001,2001,,58.474654,X,base year is 2015
+PHL,2002-08-01,2002-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2002,2002,,60.056994,X,base year is 2015
+PHL,2003-08-01,2003-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2003,2003,,61.351636,X,base year is 2015
+PHL,2004-08-01,2004-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2004,2004,,64.875939,X,base year is 2015
+PHL,2005-08-01,2005-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2005,2005,,68.831789,X,base year is 2015
+PHL,2006-08-01,2006-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2006,2006,,72.428016,X,base year is 2015
+PHL,2007-08-01,2007-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2007,2007,,74.369979,X,base year is 2015
+PHL,2008-08-01,2008-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2008,2008,,82.209754,X,base year is 2015
+PHL,2009-08-01,2009-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2009,2009,,83.648245,X,base year is 2015
+PHL,2010-08-01,2010-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2010,2010,,87.100623,X,base year is 2015
+PHL,2011-08-01,2011-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2011,2011,,91.128397,X,base year is 2015
+PHL,2012-08-01,2012-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2012,2012,,94.377986,X,base year is 2015
+PHL,2013-08-01,2013-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2013,2013,,96.059970,X,base year is 2015
+PHL,2014-08-01,2014-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2014,2014,,100.078043,X,base year is 2015
+PHL,2015-08-01,2015-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2015,2015,,100.078043,X,base year is 2015
+PHL,2016-08-01,2016-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2016,2016,,101.386253,X,base year is 2015
+PHL,2017-08-01,2017-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2017,2017,,104.002672,X,base year is 2015
+PHL,2018-08-01,2018-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2018,2018,,110.897018,X,base year is 2015
+PHL,2019-08-01,2019-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2019,2019,,112.432684,X,base year is 2015
+PHL,2020-08-01,2020-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2020,2020,,114.955564,X,base year is 2015
+PHL,2021-08-01,2021-08-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2021,2021,,120.001323,X,base year is 2015
+PHL,2000-09-01,2000-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2000,2000,,55.453823,X,base year is 2015
+PHL,2001-09-01,2001-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2001,2001,,58.618503,X,base year is 2015
+PHL,2002-09-01,2002-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2002,2002,,60.056994,X,base year is 2015
+PHL,2003-09-01,2003-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2003,2003,,61.351636,X,base year is 2015
+PHL,2004-09-01,2004-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2004,2004,,65.163637,X,base year is 2015
+PHL,2005-09-01,2005-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2005,2005,,69.047562,X,base year is 2015
+PHL,2006-09-01,2006-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2006,2006,,72.428016,X,base year is 2015
+PHL,2007-09-01,2007-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2007,2007,,74.513828,X,base year is 2015
+PHL,2008-09-01,2008-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2008,2008,,82.065905,X,base year is 2015
+PHL,2009-09-01,2009-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2009,2009,,83.935943,X,base year is 2015
+PHL,2010-09-01,2010-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2010,2010,,87.100623,X,base year is 2015
+PHL,2011-09-01,2011-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2011,2011,,91.200322,X,base year is 2015
+PHL,2012-09-01,2012-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2012,2012,,94.377986,X,base year is 2015
+PHL,2013-09-01,2013-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2013,2013,,96.527188,X,base year is 2015
+PHL,2014-09-01,2014-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2014,2014,,100.264930,X,base year is 2015
+PHL,2015-09-01,2015-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2015,2015,,99.891156,X,base year is 2015
+PHL,2016-09-01,2016-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2016,2016,,101.573140,X,base year is 2015
+PHL,2017-09-01,2017-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2017,2017,,104.656777,X,base year is 2015
+PHL,2018-09-01,2018-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2018,2018,,111.993922,X,base year is 2015
+PHL,2019-09-01,2019-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2019,2019,,112.542374,X,base year is 2015
+PHL,2020-09-01,2020-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2020,2020,,115.065254,X,base year is 2015
+PHL,2021-09-01,2021-09-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2021,2021,,119.891633,X,base year is 2015
+PHL,2000-10-01,2000-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2000,2000,,55.813446,X,base year is 2015
+PHL,2001-10-01,2001-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2001,2001,,58.690428,X,base year is 2015
+PHL,2002-10-01,2002-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2002,2002,,60.056994,X,base year is 2015
+PHL,2003-10-01,2003-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2003,2003,,61.423561,X,base year is 2015
+PHL,2004-10-01,2004-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2004,2004,,65.307486,X,base year is 2015
+PHL,2005-10-01,2005-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2005,2005,,69.335261,X,base year is 2015
+PHL,2006-10-01,2006-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2006,2006,,72.571865,X,base year is 2015
+PHL,2007-10-01,2007-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2007,2007,,74.657677,X,base year is 2015
+PHL,2008-10-01,2008-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2008,2008,,81.922056,X,base year is 2015
+PHL,2009-10-01,2009-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2009,2009,,84.295566,X,base year is 2015
+PHL,2010-10-01,2010-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2010,2010,,87.028698,X,base year is 2015
+PHL,2011-10-01,2011-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2011,2011,,91.559945,X,base year is 2015
+PHL,2012-10-01,2012-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2012,2012,,94.377986,X,base year is 2015
+PHL,2013-10-01,2013-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2013,2013,,96.620631,X,base year is 2015
+PHL,2014-10-01,2014-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2014,2014,,100.171486,X,base year is 2015
+PHL,2015-10-01,2015-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2015,2015,,99.984599,X,base year is 2015
+PHL,2016-10-01,2016-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2016,2016,,101.760027,X,base year is 2015
+PHL,2017-10-01,2017-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2017,2017,,104.937107,X,base year is 2015
+PHL,2018-10-01,2018-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2018,2018,,112.213303,X,base year is 2015
+PHL,2019-10-01,2019-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2019,2019,,112.871445,X,base year is 2015
+PHL,2020-10-01,2020-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2020,2020,,115.504016,X,base year is 2015
+PHL,2021-10-01,2021-10-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2021,2021,,120.111013,X,base year is 2015
+PHL,2000-11-01,2000-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2000,2000,,56.460767,X,base year is 2015
+PHL,2001-11-01,2001-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2001,2001,,58.834277,X,base year is 2015
+PHL,2002-11-01,2002-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2002,2002,,60.056994,X,base year is 2015
+PHL,2003-11-01,2003-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2003,2003,,61.495485,X,base year is 2015
+PHL,2004-11-01,2004-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2004,2004,,65.667109,X,base year is 2015
+PHL,2005-11-01,2005-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2005,2005,,69.766808,X,base year is 2015
+PHL,2006-11-01,2006-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2006,2006,,72.715714,X,base year is 2015
+PHL,2007-11-01,2007-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2007,2007,,74.945375,X,base year is 2015
+PHL,2008-11-01,2008-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2008,2008,,81.778207,X,base year is 2015
+PHL,2009-11-01,2009-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2009,2009,,84.655188,X,base year is 2015
+PHL,2010-11-01,2010-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2010,2010,,87.819868,X,base year is 2015
+PHL,2011-11-01,2011-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2011,2011,,91.919567,X,base year is 2015
+PHL,2012-11-01,2012-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2012,2012,,94.377986,X,base year is 2015
+PHL,2013-11-01,2013-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2013,2013,,97.087849,X,base year is 2015
+PHL,2014-11-01,2014-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2014,2014,,99.984599,X,base year is 2015
+PHL,2015-11-01,2015-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2015,2015,,100.264930,X,base year is 2015
+PHL,2016-11-01,2016-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2016,2016,,102.320688,X,base year is 2015
+PHL,2017-11-01,2017-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2017,2017,,105.404325,X,base year is 2015
+PHL,2018-11-01,2018-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2018,2018,,111.884232,X,base year is 2015
+PHL,2019-11-01,2019-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2019,2019,,113.200517,X,base year is 2015
+PHL,2020-11-01,2020-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2020,2020,,116.600920,X,base year is 2015
+PHL,2021-11-01,2021-11-30,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2021,2021,,120.878846,X,base year is 2015
+PHL,2000-12-01,2000-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2000,2000,,56.892314,X,base year is 2015
+PHL,2001-12-01,2001-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2001,2001,,58.978126,X,base year is 2015
+PHL,2002-12-01,2002-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2002,2002,,60.200843,X,base year is 2015
+PHL,2003-12-01,2003-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2003,2003,,61.711259,X,base year is 2015
+PHL,2004-12-01,2004-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2004,2004,,66.098656,X,base year is 2015
+PHL,2005-12-01,2005-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2005,2005,,69.982581,X,base year is 2015
+PHL,2006-12-01,2006-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2006,2006,,72.859563,X,base year is 2015
+PHL,2007-12-01,2007-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2007,2007,,75.520771,X,base year is 2015
+PHL,2008-12-01,2008-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2008,2008,,81.418584,X,base year is 2015
+PHL,2009-12-01,2009-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2009,2009,,85.014811,X,base year is 2015
+PHL,2010-12-01,2010-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2010,2010,,88.107567,X,base year is 2015
+PHL,2011-12-01,2011-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2011,2011,,91.775718,X,base year is 2015
+PHL,2012-12-01,2012-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2012,2012,,94.284543,X,base year is 2015
+PHL,2013-12-01,2013-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2013,2013,,97.835398,X,base year is 2015
+PHL,2014-12-01,2014-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2014,2014,,99.704269,X,base year is 2015
+PHL,2015-12-01,2015-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2015,2015,,100.451817,X,base year is 2015
+PHL,2016-12-01,2016-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2016,2016,,102.694462,X,base year is 2015
+PHL,2017-12-01,2017-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2017,2017,,105.684656,X,base year is 2015
+PHL,2018-12-01,2018-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2018,2018,,111.226089,X,base year is 2015
+PHL,2019-12-01,2019-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2019,2019,,113.858659,X,base year is 2015
+PHL,2020-12-01,2020-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2020,2020,,117.588134,X,base year is 2015
+PHL,2021-12-01,2021-12-31,171,'608,Philippines,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2021,2021,,121.207918,X,base year is 2015
+PHL,2001-01-01,2001-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2001,2001,%,4.865557,E,
+PHL,2002-01-01,2002-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2002,2002,%,1.709402,E,
+PHL,2003-01-01,2003-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2003,2003,%,0.480192,E,
+PHL,2004-01-01,2004-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2004,2004,%,3.345281,E,
+PHL,2005-01-01,2005-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2005,2005,%,7.630058,E,
+PHL,2006-01-01,2006-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2006,2006,%,5.585392,E,
+PHL,2007-01-01,2007-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2007,2007,%,4.170905,E,
+PHL,2008-01-01,2008-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2008,2008,%,6.835938,E,
+PHL,2009-01-01,2009-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2009,2009,%,11.334552,E,
+PHL,2010-01-01,2010-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2010,2010,%,5.008210,E,
+PHL,2011-01-01,2011-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2011,2011,%,4.847537,E,
+PHL,2012-01-01,2012-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2012,2012,%,3.206562,E,
+PHL,2013-01-01,2013-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2013,2013,%,2.836879,E,
+PHL,2014-01-01,2014-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2014,2014,%,4.532020,E,
+PHL,2015-01-01,2015-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2015,2015,%,4.524034,E,
+PHL,2016-01-01,2016-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2016,2016,%,0.901713,E,
+PHL,2017-01-01,2017-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2017,2017,%,2.591600,E,
+PHL,2018-01-01,2018-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2018,2018,%,4.355401,E,
+PHL,2019-01-01,2019-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2019,2019,%,5.592654,E,
+PHL,2020-01-01,2020-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2020,2020,%,2.213439,E,
+PHL,2021-01-01,2021-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2021,2021,%,6.109822,E,
+PHL,2022-01-01,2022-01-31,171,'608,Philippines,23014,Food price inflation,7001,January,2022,2022,%,1.329195,E,
+PHL,2001-02-01,2001-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2001,2001,%,3.831418,E,
+PHL,2002-02-01,2002-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2002,2002,%,1.845018,E,
+PHL,2003-02-01,2003-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2003,2003,%,0.966184,E,
+PHL,2004-02-01,2004-02-29,171,'608,Philippines,23014,Food price inflation,7002,February,2004,2004,%,3.349282,E,
+PHL,2005-02-01,2005-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2005,2005,%,7.870370,E,
+PHL,2006-02-01,2006-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2006,2006,%,6.115880,E,
+PHL,2007-02-01,2007-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2007,2007,%,3.437816,E,
+PHL,2008-02-01,2008-02-29,171,'608,Philippines,23014,Food price inflation,7002,February,2008,2008,%,7.429130,E,
+PHL,2009-02-01,2009-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2009,2009,%,11.737944,E,
+PHL,2010-02-01,2010-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2010,2010,%,4.397394,E,
+PHL,2011-02-01,2011-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2011,2011,%,5.928237,E,
+PHL,2012-02-01,2012-02-29,171,'608,Philippines,23014,Food price inflation,7002,February,2012,2012,%,1.708066,E,
+PHL,2013-02-01,2013-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2013,2013,%,2.944162,E,
+PHL,2014-02-01,2014-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2014,2014,%,4.832347,E,
+PHL,2015-02-01,2015-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2015,2015,%,3.951082,E,
+PHL,2016-02-01,2016-02-29,171,'608,Philippines,23014,Food price inflation,7002,February,2016,2016,%,0.904977,E,
+PHL,2017-02-01,2017-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2017,2017,%,3.049327,E,
+PHL,2018-02-01,2018-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2018,2018,%,4.786771,E,
+PHL,2019-02-01,2019-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2019,2019,%,4.734219,E,
+PHL,2020-02-01,2020-02-29,171,'608,Philippines,23014,Food price inflation,7002,February,2020,2020,%,2.061856,E,
+PHL,2021-02-01,2021-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2021,2021,%,6.682207,E,
+PHL,2022-02-01,2022-02-28,171,'608,Philippines,23014,Food price inflation,7002,February,2022,2022,%,0.445350,E,
+PHL,2001-03-01,2001-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2001,2001,%,3.580563,E,
+PHL,2002-03-01,2002-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2002,2002,%,2.345679,E,
+PHL,2003-03-01,2003-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2003,2003,%,0.723764,E,
+PHL,2004-03-01,2004-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2004,2004,%,4.191617,E,
+PHL,2005-03-01,2005-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2005,2005,%,7.241379,E,
+PHL,2006-03-01,2006-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2006,2006,%,6.109325,E,
+PHL,2007-03-01,2007-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2007,2007,%,3.030303,E,
+PHL,2008-03-01,2008-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2008,2008,%,8.823529,E,
+PHL,2009-03-01,2009-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2009,2009,%,10.900901,E,
+PHL,2010-03-01,2010-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2010,2010,%,3.899269,E,
+PHL,2011-03-01,2011-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2011,2011,%,6.176701,E,
+PHL,2012-03-01,2012-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2012,2012,%,1.708066,E,
+PHL,2013-03-01,2013-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2013,2013,%,2.741117,E,
+PHL,2014-03-01,2014-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2014,2014,%,5.039526,E,
+PHL,2015-03-01,2015-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2015,2015,%,3.480715,E,
+PHL,2016-03-01,2016-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2016,2016,%,1.000000,E,
+PHL,2017-03-01,2017-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2017,2017,%,2.880288,E,
+PHL,2018-03-01,2018-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2018,2018,%,5.861767,E,
+PHL,2019-03-01,2019-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2019,2019,%,3.388430,E,
+PHL,2020-03-01,2020-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2020,2020,%,2.637890,E,
+PHL,2021-03-01,2021-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2021,2021,%,5.841121,E,
+PHL,2022-03-01,2022-03-31,171,'608,Philippines,23014,Food price inflation,7003,March,2022,2022,%,1.571039,E,
+PHL,2001-04-01,2001-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2001,2001,%,3.324808,E,
+PHL,2002-04-01,2002-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2002,2002,%,2.599010,E,
+PHL,2003-04-01,2003-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2003,2003,%,0.723764,E,
+PHL,2004-04-01,2004-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2004,2004,%,4.910180,E,
+PHL,2005-04-01,2005-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2005,2005,%,7.077626,E,
+PHL,2006-04-01,2006-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2006,2006,%,5.756930,E,
+PHL,2007-04-01,2007-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2007,2007,%,3.024194,E,
+PHL,2008-04-01,2008-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2008,2008,%,11.643836,E,
+PHL,2009-04-01,2009-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2009,2009,%,8.326030,E,
+PHL,2010-04-01,2010-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2010,2010,%,3.640777,E,
+PHL,2011-04-01,2011-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2011,2011,%,6.323185,E,
+PHL,2012-04-01,2012-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2012,2012,%,2.130040,E,
+PHL,2013-04-01,2013-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2013,2013,%,2.016129,E,
+PHL,2014-04-01,2014-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2014,2014,%,5.335968,E,
+PHL,2015-04-01,2015-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2015,2015,%,3.283302,E,
+PHL,2016-04-01,2016-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2016,2016,%,0.817439,E,
+PHL,2017-04-01,2017-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2017,2017,%,3.333333,E,
+PHL,2018-04-01,2018-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2018,2018,%,5.928509,E,
+PHL,2019-04-01,2019-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2019,2019,%,3.045267,E,
+PHL,2020-04-01,2020-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2020,2020,%,3.354633,E,
+PHL,2021-04-01,2021-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2021,2021,%,4.791345,E,
+PHL,2022-04-01,2022-04-30,171,'608,Philippines,23014,Food price inflation,7004,April,2022,2022,%,2.524819,E,
+PHL,2001-05-01,2001-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2001,2001,%,3.439490,E,
+PHL,2002-05-01,2002-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2002,2002,%,2.216749,E,
+PHL,2003-05-01,2003-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2003,2003,%,0.963855,E,
+PHL,2004-05-01,2004-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2004,2004,%,5.250597,E,
+PHL,2005-05-01,2005-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2005,2005,%,6.916100,E,
+PHL,2006-05-01,2006-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2006,2006,%,5.514316,E,
+PHL,2007-05-01,2007-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2007,2007,%,3.015075,E,
+PHL,2008-05-01,2008-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2008,2008,%,13.756098,E,
+PHL,2009-05-01,2009-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2009,2009,%,6.346484,E,
+PHL,2010-05-01,2010-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2010,2010,%,3.387097,E,
+PHL,2011-05-01,2011-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2011,2011,%,6.162246,E,
+PHL,2012-05-01,2012-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2012,2012,%,2.102051,E,
+PHL,2013-05-01,2013-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2013,2013,%,2.219980,E,
+PHL,2014-05-01,2014-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2014,2014,%,5.824284,E,
+PHL,2015-05-01,2015-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2015,2015,%,2.518657,E,
+PHL,2016-05-01,2016-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2016,2016,%,1.364877,E,
+PHL,2017-05-01,2017-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2017,2017,%,3.052065,E,
+PHL,2018-05-01,2018-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2018,2018,%,5.749129,E,
+PHL,2019-05-01,2019-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2019,2019,%,3.377265,E,
+PHL,2020-05-01,2020-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2020,2020,%,2.948207,E,
+PHL,2021-05-01,2021-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2021,2021,%,4.566563,E,
+PHL,2022-05-01,2022-05-31,171,'608,Philippines,23014,Food price inflation,7005,May,2022,2022,%,3.544553,E,
+PHL,2001-06-01,2001-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2001,2001,%,4.209184,E,
+PHL,2002-06-01,2002-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2002,2002,%,1.713586,E,
+PHL,2003-06-01,2003-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2003,2003,%,1.925391,E,
+PHL,2004-06-01,2004-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2004,2004,%,5.312869,E,
+PHL,2005-06-01,2005-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2005,2005,%,6.390135,E,
+PHL,2006-06-01,2006-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2006,2006,%,5.163330,E,
+PHL,2007-06-01,2007-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2007,2007,%,3.106212,E,
+PHL,2008-06-01,2008-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2008,2008,%,16.132167,E,
+PHL,2009-06-01,2009-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2009,2009,%,4.016736,E,
+PHL,2010-06-01,2010-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2010,2010,%,3.539823,E,
+PHL,2011-06-01,2011-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2011,2011,%,5.982906,E,
+PHL,2012-06-01,2012-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2012,2012,%,2.288697,E,
+PHL,2013-06-01,2013-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2013,2013,%,2.110553,E,
+PHL,2014-06-01,2014-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2014,2014,%,6.397638,E,
+PHL,2015-06-01,2015-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2015,2015,%,1.572618,E,
+PHL,2016-06-01,2016-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2016,2016,%,1.912568,E,
+PHL,2017-06-01,2017-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2017,2017,%,3.038427,E,
+PHL,2018-06-01,2018-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2018,2018,%,6.071119,E,
+PHL,2019-06-01,2019-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2019,2019,%,2.698283,E,
+PHL,2020-06-01,2020-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2020,2020,%,2.707006,E,
+PHL,2021-06-01,2021-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2021,2021,%,4.651163,E,
+PHL,2022-06-01,2022-06-30,171,'608,Philippines,23014,Food price inflation,7006,June,2022,2022,%,4.628173,E,
+PHL,2001-07-01,2001-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2001,2001,%,4.447268,E,
+PHL,2002-07-01,2002-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2002,2002,%,1.946472,E,
+PHL,2003-07-01,2003-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2003,2003,%,1.073986,E,
+PHL,2004-07-01,2004-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2004,2004,%,6.729634,E,
+PHL,2005-07-01,2005-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2005,2005,%,5.530973,E,
+PHL,2006-07-01,2006-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2006,2006,%,4.926625,E,
+PHL,2007-07-01,2007-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2007,2007,%,3.396603,E,
+PHL,2008-07-01,2008-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2008,2008,%,17.294686,E,
+PHL,2009-07-01,2009-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2009,2009,%,2.471170,E,
+PHL,2010-07-01,2010-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2010,2010,%,3.858521,E,
+PHL,2011-07-01,2011-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2011,2011,%,5.727554,E,
+PHL,2012-07-01,2012-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2012,2012,%,2.754847,E,
+PHL,2013-07-01,2013-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2013,2013,%,1.898102,E,
+PHL,2014-07-01,2014-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2014,2014,%,7.156863,E,
+PHL,2015-07-01,2015-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2015,2015,%,0.914913,E,
+PHL,2016-07-01,2016-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2016,2016,%,1.722575,E,
+PHL,2017-07-01,2017-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2017,2017,%,2.762923,E,
+PHL,2018-07-01,2018-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2018,2018,%,7.025152,E,
+PHL,2019-07-01,2019-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2019,2019,%,1.944895,E,
+PHL,2020-07-01,2020-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2020,2020,%,2.384738,E,
+PHL,2021-07-01,2021-07-31,171,'608,Philippines,23014,Food price inflation,7007,July,2021,2021,%,4.891304,E,
+PHL,2001-08-01,2001-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2001,2001,%,3.656999,E,
+PHL,2002-08-01,2002-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2002,2002,%,2.676399,E,
+PHL,2003-08-01,2003-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2003,2003,%,0.592417,E,
+PHL,2004-08-01,2004-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2004,2004,%,7.420495,E,
+PHL,2005-08-01,2005-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2005,2005,%,5.263158,E,
+PHL,2006-08-01,2006-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2006,2006,%,4.895833,E,
+PHL,2007-08-01,2007-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2007,2007,%,3.078451,E,
+PHL,2008-08-01,2008-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2008,2008,%,17.148362,E,
+PHL,2009-08-01,2009-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2009,2009,%,2.384868,E,
+PHL,2010-08-01,2010-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2010,2010,%,4.417671,E,
+PHL,2011-08-01,2011-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2011,2011,%,5.153846,E,
+PHL,2012-08-01,2012-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2012,2012,%,3.808027,E,
+PHL,2013-08-01,2013-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2013,2013,%,1.284585,E,
+PHL,2014-08-01,2014-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2014,2014,%,7.512195,E,
+PHL,2015-08-01,2015-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2015,2015,%,0.362976,E,
+PHL,2016-08-01,2016-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2016,2016,%,1.537071,E,
+PHL,2017-08-01,2017-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2017,2017,%,2.938557,E,
+PHL,2018-08-01,2018-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2018,2018,%,8.477509,E,
+PHL,2019-08-01,2019-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2019,2019,%,0.558214,E,
+PHL,2020-08-01,2020-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2020,2020,%,1.823949,E,
+PHL,2021-08-01,2021-08-31,171,'608,Philippines,23014,Food price inflation,7008,August,2021,2021,%,6.464174,E,
+PHL,2001-09-01,2001-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2001,2001,%,4.040404,E,
+PHL,2002-09-01,2002-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2002,2002,%,2.305825,E,
+PHL,2003-09-01,2003-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2003,2003,%,0.593120,E,
+PHL,2004-09-01,2004-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2004,2004,%,7.783019,E,
+PHL,2005-09-01,2005-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2005,2005,%,5.361050,E,
+PHL,2006-09-01,2006-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2006,2006,%,4.361371,E,
+PHL,2007-09-01,2007-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2007,2007,%,4.079602,E,
+PHL,2008-09-01,2008-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2008,2008,%,15.965583,E,
+PHL,2009-09-01,2009-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2009,2009,%,2.967848,E,
+PHL,2010-09-01,2010-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2010,2010,%,4.323459,E,
+PHL,2011-09-01,2011-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2011,2011,%,4.988488,E,
+PHL,2012-09-01,2012-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2012,2012,%,3.937148,E,
+PHL,2013-09-01,2013-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2013,2013,%,2.169625,E,
+PHL,2014-09-01,2014-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2014,2014,%,6.563707,E,
+PHL,2015-09-01,2015-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2015,2015,%,0.090580,E,
+PHL,2016-09-01,2016-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2016,2016,%,1.900452,E,
+PHL,2017-09-01,2017-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2017,2017,%,3.285968,E,
+PHL,2018-09-01,2018-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2018,2018,%,9.716251,E,
+PHL,2019-09-01,2019-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2019,2019,%,-0.940439,E,
+PHL,2020-09-01,2020-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2020,2020,%,1.503165,E,
+PHL,2021-09-01,2021-09-30,171,'608,Philippines,23014,Food price inflation,7009,September,2021,2021,%,6.235386,E,
+PHL,2001-10-01,2001-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2001,2001,%,3.517588,E,
+PHL,2002-10-01,2002-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2002,2002,%,1.941748,E,
+PHL,2003-10-01,2003-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2003,2003,%,0.833333,E,
+PHL,2004-10-01,2004-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2004,2004,%,7.910272,E,
+PHL,2005-10-01,2005-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2005,2005,%,5.798687,E,
+PHL,2006-10-01,2006-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2006,2006,%,4.550155,E,
+PHL,2007-10-01,2007-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2007,2007,%,4.253215,E,
+PHL,2008-10-01,2008-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2008,2008,%,14.421252,E,
+PHL,2009-10-01,2009-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2009,2009,%,4.560531,E,
+PHL,2010-10-01,2010-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2010,2010,%,3.489294,E,
+PHL,2011-10-01,2011-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2011,2011,%,5.670498,E,
+PHL,2012-10-01,2012-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2012,2012,%,3.006378,E,
+PHL,2013-10-01,2013-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2013,2013,%,2.862784,E,
+PHL,2014-10-01,2014-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2014,2014,%,5.950096,E,
+PHL,2015-10-01,2015-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2015,2015,%,0.181159,E,
+PHL,2016-10-01,2016-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2016,2016,%,2.260398,E,
+PHL,2017-10-01,2017-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2017,2017,%,3.183024,E,
+PHL,2018-10-01,2018-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2018,2018,%,9.425878,E,
+PHL,2019-10-01,2019-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2019,2019,%,-0.861394,E,
+PHL,2020-10-01,2020-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2020,2020,%,2.132701,E,
+PHL,2021-10-01,2021-10-31,171,'608,Philippines,23014,Food price inflation,7010,October,2021,2021,%,5.259087,E,
+PHL,2001-11-01,2001-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2001,2001,%,2.481390,E,
+PHL,2002-11-01,2002-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2002,2002,%,1.452785,E,
+PHL,2003-11-01,2003-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2003,2003,%,1.312649,E,
+PHL,2004-11-01,2004-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2004,2004,%,7.773852,E,
+PHL,2005-11-01,2005-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2005,2005,%,6.010929,E,
+PHL,2006-11-01,2006-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2006,2006,%,4.639175,E,
+PHL,2007-11-01,2007-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2007,2007,%,4.433498,E,
+PHL,2008-11-01,2008-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2008,2008,%,13.396226,E,
+PHL,2009-11-01,2009-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2009,2009,%,5.740433,E,
+PHL,2010-11-01,2010-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2010,2010,%,3.855232,E,
+PHL,2011-11-01,2011-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2011,2011,%,4.772727,E,
+PHL,2012-11-01,2012-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2012,2012,%,2.708456,E,
+PHL,2013-11-01,2013-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2013,2013,%,3.257651,E,
+PHL,2014-11-01,2014-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2014,2014,%,5.449331,E,
+PHL,2015-11-01,2015-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2015,2015,%,0.997280,E,
+PHL,2016-11-01,2016-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2016,2016,%,2.333932,E,
+PHL,2017-11-01,2017-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2017,2017,%,2.982456,E,
+PHL,2018-11-01,2018-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2018,2018,%,8.006814,E,
+PHL,2019-11-01,2019-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2019,2019,%,0.000000,E,
+PHL,2020-11-01,2020-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2020,2020,%,4.258675,E,
+PHL,2021-11-01,2021-11-30,171,'608,Philippines,23014,Food price inflation,7011,November,2021,2021,%,3.933434,E,
+PHL,2001-12-01,2001-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2001,2001,%,1.970443,E,
+PHL,2002-12-01,2002-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2002,2002,%,1.207729,E,
+PHL,2003-12-01,2003-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2003,2003,%,1.789976,E,
+PHL,2004-12-01,2004-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2004,2004,%,8.440797,E,
+PHL,2005-12-01,2005-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2005,2005,%,5.189189,E,
+PHL,2006-12-01,2006-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2006,2006,%,4.419322,E,
+PHL,2007-12-01,2007-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2007,2007,%,5.413386,E,
+PHL,2008-12-01,2008-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2008,2008,%,12.324930,E,
+PHL,2009-12-01,2009-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2009,2009,%,6.068163,E,
+PHL,2010-12-01,2010-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2010,2010,%,3.996865,E,
+PHL,2011-12-01,2011-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2011,2011,%,4.069329,E,
+PHL,2012-12-01,2012-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2012,2012,%,2.755664,E,
+PHL,2013-12-01,2013-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2013,2013,%,4.150198,E,
+PHL,2014-12-01,2014-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2014,2014,%,4.648956,E,
+PHL,2015-12-01,2015-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2015,2015,%,1.087942,E,
+PHL,2016-12-01,2016-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2016,2016,%,2.331839,E,
+PHL,2017-12-01,2017-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2017,2017,%,3.505697,E,
+PHL,2018-12-01,2018-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2018,2018,%,6.689246,E,
+PHL,2019-12-01,2019-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2019,2019,%,1.746032,E,
+PHL,2020-12-01,2020-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2020,2020,%,4.758190,E,
+PHL,2021-12-01,2021-12-31,171,'608,Philippines,23014,Food price inflation,7012,December,2021,2021,%,3.127327,E,
